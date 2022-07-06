@@ -1,0 +1,8 @@
+prefix=/home/sai/udacitygithub2/P2-Go-Chase-It/catkin_ws/devel
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
