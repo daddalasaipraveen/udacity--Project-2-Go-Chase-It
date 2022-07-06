@@ -109,3 +109,5 @@ cd /home/workspace/catkin_ws/
 source devel/setup.bash
 rosrun rqt_image_view rqt_image_view  
 ```  
+
+![image](https://user-images.githubusercontent.com/89826843/177520816-98dcefa5-486d-40a3-b3b6-ee6faec1b43d.png)
